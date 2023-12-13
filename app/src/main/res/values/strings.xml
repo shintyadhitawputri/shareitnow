@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">#shareitnow</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Sign In</string>
+    <string name="message_welcome_page">Are you ready to be part of the storytellers? Start your own journey, share your tales, and discover new stories from around the globe.</string>
+    <string name="title_welcome_page">Welcome to StoryLives</string>
+    <string name="title_signup_page">Join Us, Regist Yourself</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">We Love to See Your Stories</string>
+    <string name="title_login_page">Login Now!</string>
+    <string name="name">Name</string>
+    <string name="logout">Sign Out</string>
+    <string name="desc">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please insert the image file first.</string>
+    <string name="description_img">Detail Image User Story</string>
+    <string name="placeholder_email">Enter your Email</string>
+    <string name="placeholder_password">Enter your Password</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">MapsActivity</string>
+    <string name="retry">Retry</string>
+    <string name="passwordwarning">Password must not be less than 8 characters</string>
+    <string name="emailwarning">Email invalid</string>
+</resources>
